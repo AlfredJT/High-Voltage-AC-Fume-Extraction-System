@@ -18,6 +18,18 @@ The motor is a salvaged universal AC motor, paired with an impeller and volute h
 
 Speed is controlled with an analog TRIAC voltage controller and potentiometer, giving continuous adjustment over suction strength and noise instead of a single fixed speed. 
 
+## ARM
+<img width="690" height="696" alt="image" src="https://github.com/user-attachments/assets/2290062c-1090-43dd-ae5b-01e35be7becd" />
+
+
+I designed this extension arm to allow the user to direct the tunnel and easily direct where they want the fume extractor to operate.
+
+
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/2240bfd0-a1c9-472b-ab40-8b5499e00ee3" />
+
+Additional Arm can be attached for greater range.
+
+
 ## Electrical safety
 
 Since this runs off mains voltage with hand-wired, salvaged components, safety was a core part of the design:
